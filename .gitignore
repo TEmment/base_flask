@@ -1,0 +1,7 @@
+.env
+
+node_modules/
+
+# compiled css
+app/static/css/custom_bootstrap.css
+app/static/css/custom_bootstrap.css.map

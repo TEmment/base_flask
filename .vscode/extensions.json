@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-python.flake8",
+        "ms-python.autopep8",
+        "ms-python.vscode-pylance",
+        "ms-azuretools.vscode-docker",
+        "ryanluker.vscode-coverage-gutters",
+        "formulahendry.docker-explorer",
+        "irongeek.vscode-env",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "wayou.vscode-todo-highlight",
+        "pkief.material-icon-theme",
+        "donjayamanne.githistory",
+        "eamodio.gitlens"
+    ]
+}
